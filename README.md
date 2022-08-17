@@ -1,8 +1,8 @@
 # Learning to analyze &write papers:
-*we want to learn analyse data and analyse experiment,learn to analyse method and experience to improve ourself,so in this project ,we collect some paper that fouces on analyse model,experiment or data  to gain some knowledge or some useful conclusion*<br/>
+*I want to learn how to analyze data and analyze experiments, to accumulate relevant experience to improve my analytical ability, so this project mainly focuses on collecting articles that focus on analysis, such analysis articles are mainly to discover problems, or discover phenomena or discover knowledge, and finally come to some useful conclusions.*<br/>
 
 ## 1.1Analysing model
-*this section paper focuse on analysing model to find model disadvantage，and proprose new method to improve it*<br/>
+*this section paper focuses on analysing model to find model disadvantage，and proprose new method to improve it*<br/>
 1.**Decoupling Representation and Classifier for Long-Tailed Recognition  Kang B, Xie S, Rohrbach M, et al.arXiv preprint arXiv:1910.09217,2019.CVPR** [[paper](https://arxiv.org/pdf/1910.09217.pdf)] [[code](https://github.com/facebookresearch/classifier-balancing)]<br/>
 
 2.**BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition  Zhou B, Cui Q, Wei X S, et al.//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020: 9719-9728.** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_BBN_Bilateral-Branch_Network_With_Cumulative_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.pdf)] [[code](https://github.com/megvii-research/BBN)] <br/>
@@ -17,7 +17,7 @@ https://proceedings.mlr.press/v162/luo22c/luo22c.pdf)]  [[code](https://github.c
 
 
 ## 1.2Analysing Data
-*this section paper focuse on analysing data to find data new konwledge，and use new konwledge to improve task's effective*<br/>
+*this section paper focuses on analysing data to find data new konwledge，and use new konwledge to improve task's effective*<br/>
 1.**free lunch for few-shot learning:distribution calibration Yang S, Liu L, Xu M.arXiv preprint arXiv:2101.06395, 2021.**  [[paper](https://arxiv.org/pdf/2101.06395.pdf)]  [[code](https://github.com/ShuoYang-1998/Few_Shot_Distribution_Calibration)]<br/>
 
 2.**Delving into Deep Imbalanced Regression Yang Y, Zha K, Chen Y, et al.//International Conference on Machine Learning. PMLR, 2021: 11842-11851.** [[paper](https://github.com/YyzHarry/imbalanced-regression)] [[code](https://github.com/YyzHarry/imbalanced-regression)]
@@ -29,7 +29,7 @@ https://proceedings.mlr.press/v162/luo22c/luo22c.pdf)]  [[code](https://github.c
 
 
 ## 1.3Analysing Experiment
-*this section paper focuse on analysing experiment to find new phenomenon and useful conclusion to look for the essence reason to question  to improve task's effective*<br/>
+*this section paper focuses on analysing experiment to find new phenomenon and useful conclusion to look for the essence reason to question  to improve task's effective*<br/>
 1.**Decoupled Knowledge Distillation Zhao B, Cui Q, Song R, et al//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 11953-11962.** [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Decoupled_Knowledge_Distillation_CVPR_2022_paper.pdf)] [[code](https://github.com/megvii-research/mdistiller)]
 
 2.**Interpreting and Disentangling Feature Components of Various Complexity from DNNs Ren J, Li M, Liu Z, et al.//International Conference on Machine Learning. PMLR, 2021: 8971-8981.** [[paper](http://proceedings.mlr.press/v139/ren21b/ren21b.pdf)] [[code]()]
