@@ -37,4 +37,6 @@ https://proceedings.mlr.press/v162/luo22c/luo22c.pdf)]  [[code](https://github.c
 
 3.**An empirical study of example forgetting during deep neural network learning Toneva M, Sordoni A, Combes R T, et al.arXiv preprint arXiv:1812.05159, 2018.**[[paper](https://arxiv.org/pdf/1812.05159.pdf)] [[code](https://github.com/mtoneva/example_forgetting)]
 
+4.**Masked autoencoders are scalable vision learners  He K, Chen X, Xie S, et al.//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 16000-16009.**[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf)]
+
 
