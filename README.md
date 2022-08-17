@@ -39,4 +39,4 @@ https://proceedings.mlr.press/v162/luo22c/luo22c.pdf)]  [[code](https://github.c
 
 4.**Masked autoencoders are scalable vision learners  He K, Chen X, Xie S, et al.//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 16000-16009.**[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf)]
 
-6.**Context autoencoder for self-supervised representation learning  Chen X, Ding M, Wang X, et al.arXiv preprint arXiv:2202.03026, 2022.**[[paper](https://arxiv.org/pdf/2202.03026.pdf)]
+5.**Context autoencoder for self-supervised representation learning  Chen X, Ding M, Wang X, et al.arXiv preprint arXiv:2202.03026, 2022.**[[paper](https://arxiv.org/pdf/2202.03026.pdf)]
