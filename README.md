@@ -10,6 +10,8 @@
 3.**Channel Importance Matters in Few-Shot Image Classification Luo X, Xu J, Xu Z .//International Conference on Machine Learning. PMLR, 2022: 14542-14559.** [paper](
 https://proceedings.mlr.press/v162/luo22c/luo22c.pdf) [code](https://github.com/Frankluox/Channel_Importance_FSL)<br/>
 
+4.**Joint Distribution Matters: Deep Brownian Distance Covariance for Few-Shot Classification  Xie J, Long F, Lv J, et al.//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 7972-7981.** [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Joint_Distribution_Matters_Deep_Brownian_Distance_Covariance_for_Few-Shot_Classification_CVPR_2022_paper.pdf)
+
 
 
 
@@ -26,5 +28,7 @@ https://proceedings.mlr.press/v162/luo22c/luo22c.pdf) [code](https://github.com/
 ## 1.3Analysing Experiment
 *this section paper focuse on analysing experiment to find new phenomenon and useful conclusion to look for the essence reason to question  to improve task's effective*<br/>
 1.**Decoupled Knowledge Distillation Zhao B, Cui Q, Song R, et al//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 11953-11962.** [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Decoupled_Knowledge_Distillation_CVPR_2022_paper.pdf) [code](https://github.com/megvii-research/mdistiller)
+
+2.**Interpreting and Disentangling Feature Components of Various Complexity from DNNs Ren J, Li M, Liu Z, et al.//International Conference on Machine Learning. PMLR, 2021: 8971-8981.** [paper](http://proceedings.mlr.press/v139/ren21b/ren21b.pdf)
 
 
