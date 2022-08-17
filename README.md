@@ -20,7 +20,7 @@ https://proceedings.mlr.press/v162/luo22c/luo22c.pdf) [code](https://github.com/
 *this section paper focuse on analysing data to find data new konwledge，and use new konwledge to improve task's effective*<br/>
 1.**free lunch for few-shot learning:distribution calibration Yang S, Liu L, Xu M.arXiv preprint arXiv:2101.06395, 2021.**  [paper](https://arxiv.org/pdf/2101.06395.pdf)  [code](https://github.com/ShuoYang-1998/Few_Shot_Distribution_Calibration)<br/>
 
-2.**Delving into Deep Imbalanced Regression Yang Y, Zha K, Chen Y, et al.//International Conference on Machine Learning. PMLR, 2021: 11842-11851.** 【paper】(https://github.com/YyzHarry/imbalanced-regression)
+2.**Delving into Deep Imbalanced Regression Yang Y, Zha K, Chen Y, et al.//International Conference on Machine Learning. PMLR, 2021: 11842-11851.** [[paper](https://github.com/YyzHarry/imbalanced-regression)]
 
 
 
