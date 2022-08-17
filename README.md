@@ -24,7 +24,7 @@ https://proceedings.mlr.press/v162/luo22c/luo22c.pdf) [code](https://github.com/
 
 
 ## 1.3Analysing Experiment
-*this section paper focuse on analysing data to find data new konwledge，and use new konwledge to improve task's effective*<br/>
+*this section paper focuse on analysing experiment to find new phenomenon and useful conclusion to look for the essence reason to question  to improve task's effective*<br/>
 1.**Decoupled Knowledge Distillation Zhao B, Cui Q, Song R, et al//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 11953-11962.** [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Decoupled_Knowledge_Distillation_CVPR_2022_paper.pdf) [code](https://github.com/megvii-research/mdistiller)
 
 
