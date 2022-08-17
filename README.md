@@ -6,7 +6,7 @@
 
 ## 1.2Analysing Data
 *this section paper focuse on analysing data to find data new konwledge，and use new konwledge to improve task's effective*<br/>
-**f1.ree lunch for few-shot learning:distribution calibration**[paper](https://arxiv.org/pdf/2101.06395.pdf) [code](https://github.com/ShuoYang-1998/Few_Shot_Distribution_Calibration)
+**f1.ree lunch for few-shot learning:distribution calibration**  [paper](https://arxiv.org/pdf/2101.06395.pdf)  [code](https://github.com/ShuoYang-1998/Few_Shot_Distribution_Calibration)
 
 
 ## 1.3Analysing Experiment
