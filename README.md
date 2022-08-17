@@ -3,7 +3,7 @@
 
 ## 1.1Analysing model
 *this section paper focuse on analysing model to find model disadvantage，and proprose new method to improve it*<br/>
-1.**Decoupling Representation and Classifier for Long-Tailed Recognition  Kang B, Xie S, Rohrbach M, et al.arXiv preprint arXiv:1910.09217,2019.CVPR** [[paper](https://arxiv.org/pdf/1910.09217.pdf)] [[code](https://github.com/facebookresearch/classifier-balancing)<br/>]
+1.**Decoupling Representation and Classifier for Long-Tailed Recognition  Kang B, Xie S, Rohrbach M, et al.arXiv preprint arXiv:1910.09217,2019.CVPR** [[paper](https://arxiv.org/pdf/1910.09217.pdf)] [[code](https://github.com/facebookresearch/classifier-balancing)]<br/>
 
 2.**BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition  Zhou B, Cui Q, Wei X S, et al.//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020: 9719-9728.** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_BBN_Bilateral-Branch_Network_With_Cumulative_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.pdf)] [[code](https://github.com/megvii-research/BBN)] <br/>
 
