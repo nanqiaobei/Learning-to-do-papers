@@ -20,7 +20,8 @@ https://proceedings.mlr.press/v162/luo22c/luo22c.pdf)]  [[code](https://github.c
 *this section paper focuse on analysing data to find data new konwledge，and use new konwledge to improve task's effective*<br/>
 1.**free lunch for few-shot learning:distribution calibration Yang S, Liu L, Xu M.arXiv preprint arXiv:2101.06395, 2021.**  [[paper](https://arxiv.org/pdf/2101.06395.pdf)]  [[code](https://github.com/ShuoYang-1998/Few_Shot_Distribution_Calibration)]<br/>
 
-2.**Delving into Deep Imbalanced Regression Yang Y, Zha K, Chen Y, et al.//International Conference on Machine Learning. PMLR, 2021: 11842-11851.** [[paper](https://github.com/YyzHarry/imbalanced-regression)]
+2.**Delving into Deep Imbalanced Regression Yang Y, Zha K, Chen Y, et al.//International Conference on Machine Learning. PMLR, 2021: 11842-11851.** [[paper](https://github.com/YyzHarry/imbalanced-regression)] [[code](https://github.com/YyzHarry/imbalanced-regression)]
+
 
 
 
@@ -31,6 +32,9 @@ https://proceedings.mlr.press/v162/luo22c/luo22c.pdf)]  [[code](https://github.c
 *this section paper focuse on analysing experiment to find new phenomenon and useful conclusion to look for the essence reason to question  to improve task's effective*<br/>
 1.**Decoupled Knowledge Distillation Zhao B, Cui Q, Song R, et al//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 11953-11962.** [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Decoupled_Knowledge_Distillation_CVPR_2022_paper.pdf)] [[code](https://github.com/megvii-research/mdistiller)]
 
-2.**Interpreting and Disentangling Feature Components of Various Complexity from DNNs Ren J, Li M, Liu Z, et al.//International Conference on Machine Learning. PMLR, 2021: 8971-8981.** [[paper](http://proceedings.mlr.press/v139/ren21b/ren21b.pdf)]
+2.**Interpreting and Disentangling Feature Components of Various Complexity from DNNs Ren J, Li M, Liu Z, et al.//International Conference on Machine Learning. PMLR, 2021: 8971-8981.** [[paper](http://proceedings.mlr.press/v139/ren21b/ren21b.pdf)] [[code]()]
+
+
+3.**An empirical study of example forgetting during deep neural network learning Toneva M, Sordoni A, Combes R T, et al.arXiv preprint arXiv:1812.05159, 2018.**[[paper](https://arxiv.org/pdf/1812.05159.pdf)] [[code](https://github.com/mtoneva/example_forgetting)]
 
 
